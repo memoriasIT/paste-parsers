@@ -4,7 +4,7 @@ Download pastes from famous paste sites.
 
 ## planned paste sites
 
-https://dumpz.org/{id} 
+DONE https://dumpz.org/{id} 
 
 http://paste.org.ru/ - Must scrape
 
